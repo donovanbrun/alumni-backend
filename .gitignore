@@ -1,0 +1,7 @@
+data
+.idea
+.git
+db.sqlite3
+.env*
+api.__pycache__
+Alumni.__pycache__

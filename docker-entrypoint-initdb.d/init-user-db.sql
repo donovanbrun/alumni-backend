@@ -1,0 +1,3 @@
+CREATE DATABASE django_dev;
+CREATE USER django;
+GRANT ALL PRIVILEGES ON DATABASE django TO django;
